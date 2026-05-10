@@ -23,5 +23,21 @@
     "eslint-config-next": "16.2.2",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "description": "## Project Overview Abyssera is a Unity 6.2 mobile healing-adventure game for Android. Genre: Healing Adventure / Survival-Craft / Action Combat Developer: Nyxilla (solo dev + small team) Target: Google Play Store launch",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lkhamjav-github/abyssera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lkhamjav-github/abyssera/issues"
+  },
+  "homepage": "https://github.com/Lkhamjav-github/abyssera#readme"
 }
